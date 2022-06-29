@@ -1,0 +1,31 @@
+#nav-bar{
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 70%;
+    padding: 30px;
+    display: block;
+    border-bottom-width: 10px;
+    border-bottom-color:aqua;
+    position: sticky;
+    
+}
+
+.nav-title{
+    font-size: 2em;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.nav-item{
+    font-size: 1.5em;
+    padding-left: 2em;
+}
+#nav-button{
+    padding: 10px 10px;
+    border:2px;
+    height: 40px;
+    width: 100px;
+
+}

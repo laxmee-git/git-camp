@@ -1,0 +1,40 @@
+.main{
+    text-align:center;
+    background-position: right;
+    background-color: red;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 10px;
+     padding: 80px 10px;
+    border-width: 10px;  
+
+    
+   
+}
+.design{
+    background-color:blanchedalmond;
+}
+
+.wrap{
+    background-color:cadetblue;
+    margin-top: 15px;
+}
+
+.init{
+    color: aliceblue;
+    font-size: 25px;
+    }
+
+   #div{
+    margin-right: 100px;
+    
+    padding: 80px 10px;
+    border-radius: 40px;
+    margin-top: 10px;
+    border-width: 10px;
+    border-color: aqua;
+    
+    border-style: groove;
+    background-image: url('AL.jpg');
+
+   }
