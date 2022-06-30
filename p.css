@@ -1,5 +1,6 @@
 #nav-bar{
     display: flex;
+    flex-direction: row;
     align-self: center;
     align-items: center;
     justify-content: space-evenly;
@@ -16,6 +17,8 @@
     font-size: 2em;
     color: red;
     font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: row;
 
 }
 .nav-item{
